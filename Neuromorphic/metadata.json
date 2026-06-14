@@ -1,0 +1,6 @@
+{
+  "name": "Neuromorphic Motor Intent System",
+  "description": "An interactive neuromorphic stroke rehabilitation system that processes real-time EEG/EMG signals to detect motor intent and trigger assistive devices with sub-millisecond latency and ultra-low power.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
